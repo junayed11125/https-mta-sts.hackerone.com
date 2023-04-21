@@ -1,2 +1,2 @@
-# https-mta-sts.hackerone.com
+# https://mta-sts.managed.hackerone.com
 Subdomain Takeover
