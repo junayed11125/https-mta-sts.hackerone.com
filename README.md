@@ -1,2 +1,2 @@
-# https://mta-sts.managed.hackerone.com
+# https://mta-sts.forwarding.hackerone.com
 Subdomain Takeover
